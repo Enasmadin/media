@@ -60,7 +60,7 @@ return ()=>window.removeEventListener("scroll",handelScroll);
            <a href='#'>Infinty</a>
            <a href='#'>Latest</a>
         </div>
-        
+       
         <div className='seconed-line-tablet'>
          <select>
           <option value="0"> Feed </option>
